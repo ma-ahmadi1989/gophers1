@@ -1,0 +1,8 @@
+adade fibonachi ro ta 1000 marhale mohasebe konim
+
+https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF_%D9%81%DB%8C%D8%A8%D9%88%D9%86%D8%A7%DA%86%DB%8C#:~:text=%D8%AF%D8%B1%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA%D8%8C%20%D8%B3%D8%B1%DB%8C%20%D9%81%DB%8C%D8%A8%D9%88%D9%86%D8%A7%DA%86%DB%8C%20(%D8%A8%D9%87,%D8%B9%D8%AF%D8%AF%D9%90%20%D9%82%D8%A8%D9%84%DB%8C%D9%90%20%D8%AE%D9%88%D8%AF%20%D8%A8%D9%87%E2%80%8C%D8%AF%D8%B3%D8%AA%20%D9%85%DB%8C%E2%80%8C%D8%A2%DB%8C%D9%86%D8%AF.
+
+https://www.zoomit.ir/fundamental-science/371335-fibonacci-sequence-applications-nature/
+
+khorooji:
+۰، ۱، ۱، ۲، ۳، ۵، ۸، ۱۳، ۲۱، ۳۴، ۵۵، ۸۹، ۱۴۴، ۲۳۳، ۳۷۷، ۶۱۰، ۹۸۷، ۱۵۹۷، ۲۵۸۴، ۴۱۸۱، ۶۷۶۵
