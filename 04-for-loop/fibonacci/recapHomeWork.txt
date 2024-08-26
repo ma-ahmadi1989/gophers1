@@ -1,0 +1,14 @@
+ma mikhahim ke yek barnamie dashte bashim ke:
+1- az karbar beporsad ke mikhad seriye fibonacci chap shavad yad seriye zarbe 2taie
+2- dar marhaleye dovom az karbar bekhahad ke tedade gam ha ro entekhab konad
+3- natije ra chap konad
+
+#######
+Run:
+fibonacci(1) Zarb(2): 1
+shoma fibonacci ro entekhab kardid. chan gam hesab shavad?: 10
+0,1,1,2,3,5,8,13,21,44
+
+fibonacci(1) Zarb(2): 2
+shoma zarb 2taie ro entekhab kardid. chan gam hesab shavad?: 5
+2,4,8,16,32
