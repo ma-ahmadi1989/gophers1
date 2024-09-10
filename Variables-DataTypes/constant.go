@@ -4,10 +4,10 @@ func main() {
 
 	adade1 := 100
 
-	var adade2 int = 1000
-	adade2 = 2000
+	var adade3 int = 1000
+	adade3 = 2000
 
-	const adade3 int = 300
+	const adade4 int = 300
 
 	const familyName string = "Ahmadi"
 

@@ -1,0 +1,10 @@
+HomeWork:
+
+- 40 ta chizi ke dor o varetoon mobinid ro print konid (string)
+- damaye 40 rooze gozashte ye Tehran: https://www.timeanddate.com/weather/iran/tehran/historic (int)
+- Ghadde 40 ta az adam haye dor o baretoon (float)
+- gensiyate 40 ta az adamhaye dor o baretoon (bool)  male: false  female: true
+
+
+Video:
+- https://play.skyroom.online/l/ACu9b68OX2qY0MZrsKXbt
