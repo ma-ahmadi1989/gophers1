@@ -1,0 +1,19 @@
+HomeWork:
+
+- 40 ta chizi ke dor o varetoon mobinid ro print konid (string)
+- damaye 40 rooze gozashte ye Tehran: https://www.timeanddate.com/weather/iran/tehran/historic (int)
+- Ghadde 40 ta az adam haye dor o baretoon (float)
+- gensiyate 40 ta az adamhaye dor o baretoon (bool)  male: false  female: true
+
+
+Video:
+- https://play.skyroom.online/l/qBbJb42rKAoCKj8myaXiF
+
+
+
+Output:
+- vasileye 1 X ast, vasileye 2 X ast
+- Damaye rooze 1 X darage ast.
+- X ghadash X sant ast va gensiyate oo X ast
+  exp: Mahmoud ghadash 172 sant ast va gensiyate oo false ast
+
