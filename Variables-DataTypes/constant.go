@@ -1,16 +1,21 @@
 package main
 
+import "fmt"
+
 func main() {
 
-	adade1 := 100
+	var name string
+	const name2 string = "Ahmadi"
 
-	var adade3 int = 1000
-	adade3 = 2000
+	var age int
+	const age2 int = 12
 
-	const adade4 int = 300
+	name = "Mahmoud"
+	fmt.Println(name)
 
-	const familyName string = "Ahmadi"
+	name = "Hamid"
+	fmt.Println(name)
 
-	const name = "Mahmoud"
+	fmt.Println(name2)
 
 }
