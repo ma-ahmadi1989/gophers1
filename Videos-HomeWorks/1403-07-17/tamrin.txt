@@ -1,0 +1,19 @@
+- 40 naam va jensiyat ro chap konid
+    jensiyate X MARD/ZAN ast
+- 40 dama ra chap koni
+    - agar dama kamtar az -10 bood
+        damaye rooze X vahshatnak sard ast
+    - agar dama beyne -10 ta 0 bood
+        damaye rooze X keili sard ast
+    - agar dama beyne 0 ta 5 bood
+        damaye rooze X sard ast
+    - agar dama beyne 5 ta 20 bood
+        damaye rooze X yekam sard ast
+    - agar dama beyne 20 ta 40 bood
+        damaye rooze X garm ast
+    - agar dama bozorgtar az 40 bood
+        damaye rooze X vahshatnak garm ast
+
+
+Video link:
+    - https://play.skyroom.online/l/Bsl0Re3SBSEtiShqKTv5T
