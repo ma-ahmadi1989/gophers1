@@ -106,4 +106,15 @@ func main() {
 		fmt.Printf("Jensiyate %s MARD ast \n", names[3])
 	}
 
+	// =====================
+	dama := []int{-10, 15, 12, 14}
+
+	if dama[0] < -40 {
+		fmt.Printf("Damaye rooze 1 kheily sard ast. dama = %d", dama[0])
+	} else if -40 < dama[0] {
+		fmt.Printf("Damate rooze 1 yekam sard ast. dama = %d", dama[0])
+	} else if -10 < dama[0] {
+		fmt.Printf("Damate rooze 1 yekam kamtar sard ast. dama = %d", dama[0])
+	}
+
 }
